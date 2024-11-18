@@ -1,5 +1,6 @@
 title: default-project-template
 hero_image: images/banner.png
+pdf: resources/dummy_pdf.pdf
 description: default-project-template description
 version: 4
 listed: false
